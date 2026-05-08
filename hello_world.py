@@ -1,3 +1,3 @@
 https://github.com/ellanttola/gittraining.git
-print(Hello World!)
+print("Hello World!")
 
